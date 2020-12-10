@@ -2,3 +2,5 @@
 
 https://adventofcode.com/
 everyday, new programming challenge!
+
+https://www.reddit.com/r/adventofcode/
