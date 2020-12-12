@@ -59,7 +59,4 @@ if __name__ == '__main__':
     c = passlist(number, number_3)
     passports_list = passdict(c)
     valid_passports = validator(passports_list)
-    print(c)
-    print(passports_list)
-    print(len(passports_list))
     print(valid_passports)
