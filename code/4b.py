@@ -1,5 +1,5 @@
 import re
-#other solution for second day 4 ex. i found on reddit. using only re.
+
 
 with open("4_passports.txt") as fin:
     data = fin.read()
