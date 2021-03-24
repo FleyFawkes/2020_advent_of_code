@@ -185,3 +185,10 @@ for fer in ferry:
 
 print(ferry)
 print(zero)
+
+# e,j=enumerate,1j
+# M={x+y*j:c=='L'for x,r in e(open('11_ferry.txt'))for y,c in e(r,1)}
+# C,h={e},lambda x,d:x*M.get(x,1)or h(x+d,d)
+# n={v:{h(v+d,d)for d in(1,-1,1+j,1-j,j-1,-1-j,j,-j)}for v in M}
+# while C!=e:e,C=C,{v for v in M if-4*(v in C)+len(C&n[v])<M[v]}
+# print(len(C))
